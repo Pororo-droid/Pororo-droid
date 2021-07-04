@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jinwoo Yang</h1>
-<h3 align="center">A passionate backend and ML/DL developer from India</h3>
+<h3 align="center">A passionate backend and ML/DL developer from South Korea</h3>
 
 - 🔭 I’m currently working on [Tututm](https://github.com/Pororo-droid/tutum-server)
 
