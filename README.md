@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Server Architecture , Redis, Reinforcement Learning**
 
-- 🤝 I’m looking helping **Edit Dining**
+- 🤝 I’m cooperating with **Edit Dining**
 
 - 📫 How to reach me **yjwsis@kookmin.ac.kr**
 
