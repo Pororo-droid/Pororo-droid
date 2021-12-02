@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Tututm](https://github.com/Pororo-droid/tutum-server)
 
-- 🌱 I’m currently learning **Server Architecture , Redis, Reinforcement Learning**
+- 🌱 I’m currently learning **Server Architecture , Redis, Cloud Computing**
 
-- 🤝 I’m cooperating with **Edit Dining**
+- 🤝 I’m cooperating with **[   ]**
 
 - 📫 How to reach me **yjwsis@kookmin.ac.kr**
 
