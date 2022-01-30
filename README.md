@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jinwoo Yang</h1>
 <h3 align="center">A passionate backend developer from South Korea</h3>
 
-- 🔭 I’m currently working on [Tututm](https://github.com/Pororo-droid/tutum-server)
+- 🔭 I’m currently working on [Kiwi](https://github.com/Pororo-droid/tutum-server)
 
 - 🌱 I’m currently learning **Server Architecture , webRTC**
 
