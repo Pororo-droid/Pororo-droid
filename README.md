@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [OSDC]
 
-- 🌱 I’m currently learning **Consenseus Algorithm**
+- 🌱 I’m currently learning **Consensus Algorithm**
 
 - 🤝 I’m cooperating with **[   ]**
 
