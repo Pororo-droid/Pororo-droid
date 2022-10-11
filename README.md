@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jinwoo Yang</h1>
 <h3 align="center">A passionate backend developer from South Korea</h3>
 
-- 🔭 I’m currently working on [Kiwi](https://github.com/Captsone-Kiwi/Metaverse-Server)
+- 🔭 I’m currently working on [OSDC]
 
-- 🌱 I’m currently learning **Server Architecture , webRTC**
+- 🌱 I’m currently learning **Consenseus Algorithm**
 
 - 🤝 I’m cooperating with **[   ]**
 
