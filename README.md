@@ -7,7 +7,7 @@
 
 - 🤝 I’m cooperating with **[   ]**
 
-- 📫 How to reach me **yjwsis@kookmin.ac.kr**
+- 📫 How to reach me **jwyang88@hanyang.ac.kr**
 
 
 <h3 align="left">Languages and Tools:</h3>
