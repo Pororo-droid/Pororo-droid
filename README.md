@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **Consensus Algorithm**
 
-- 🤝 I’m cooperating with **[   ]**
+- 🤝 I’m cooperating with **[LTCWare]**
 
 - 📫 How to reach me **jwyang88@hanyang.ac.kr**
